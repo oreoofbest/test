@@ -1,3 +1,3 @@
 <?php
 phpInfo()
-lp>
+lp666>
